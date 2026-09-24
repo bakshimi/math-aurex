@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+backend/.venv/
+backend/_seed_temp*.py
+
+# User accounts database (contains password hashes - never commit)
+backend/app/data/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

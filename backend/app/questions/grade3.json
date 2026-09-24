@@ -1,0 +1,3998 @@
+[
+  {
+    "id": "g3_001",
+    "topic": "addition",
+    "question": "What is 24 + 18?",
+    "options": [
+      "42",
+      "40",
+      "44",
+      "38"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_002",
+    "topic": "addition",
+    "question": "What is 156 + 237?",
+    "options": [
+      "393",
+      "383",
+      "413",
+      "373"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_003",
+    "topic": "addition",
+    "question": "What is 305 + 96?",
+    "options": [
+      "391",
+      "401",
+      "411",
+      "389"
+    ],
+    "answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_004",
+    "topic": "subtraction",
+    "question": "What is 82 - 37?",
+    "options": [
+      "45",
+      "55",
+      "35",
+      "49"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_005",
+    "topic": "subtraction",
+    "question": "What is 500 - 264?",
+    "options": [
+      "236",
+      "246",
+      "226",
+      "264"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_006",
+    "topic": "subtraction",
+    "question": "What is 71 - 19?",
+    "options": [
+      "52",
+      "50",
+      "62",
+      "48"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_007",
+    "topic": "multiplication",
+    "question": "What is 6 x 7?",
+    "options": [
+      "42",
+      "36",
+      "48",
+      "40"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_008",
+    "topic": "multiplication",
+    "question": "What is 8 x 9?",
+    "options": [
+      "72",
+      "64",
+      "81",
+      "63"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_009",
+    "topic": "multiplication",
+    "question": "What is 5 x 12?",
+    "options": [
+      "60",
+      "50",
+      "65",
+      "55"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_010",
+    "topic": "multiplication",
+    "question": "What is 4 x 9?",
+    "options": [
+      "36",
+      "32",
+      "40",
+      "34"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_011",
+    "topic": "division",
+    "question": "What is 36 divided by 6?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_012",
+    "topic": "division",
+    "question": "What is 45 divided by 9?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_013",
+    "topic": "division",
+    "question": "What is 63 divided by 7?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_014",
+    "topic": "fractions",
+    "question": "Which fraction is equal to one half?",
+    "options": [
+      "2/4",
+      "1/3",
+      "3/4",
+      "1/5"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_015",
+    "topic": "fractions",
+    "question": "What is 1/4 of 20?",
+    "options": [
+      "5",
+      "4",
+      "10",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_016",
+    "topic": "fractions",
+    "question": "Which fraction is the largest?",
+    "options": [
+      "3/4",
+      "1/4",
+      "1/2",
+      "2/8"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_017",
+    "topic": "place_value",
+    "question": "What is the value of the digit 5 in 5,342?",
+    "options": [
+      "5,000",
+      "500",
+      "50",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_018",
+    "topic": "place_value",
+    "question": "Which number is greater than 4,678?",
+    "options": [
+      "4,687",
+      "4,678",
+      "4,600",
+      "4,589"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_019",
+    "topic": "place_value",
+    "question": "What is 3,000 + 400 + 20 + 6 written as a number?",
+    "options": [
+      "3,426",
+      "3,246",
+      "3,462",
+      "3,624"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_020",
+    "topic": "geometry",
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_021",
+    "topic": "geometry",
+    "question": "How many corners does a rectangle have?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_022",
+    "topic": "geometry",
+    "question": "What shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_023",
+    "topic": "measurement",
+    "question": "How many centimeters are in 1 meter?",
+    "options": [
+      "100",
+      "10",
+      "1000",
+      "50"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_024",
+    "topic": "measurement",
+    "question": "How many grams are in 1 kilogram?",
+    "options": [
+      "1000",
+      "100",
+      "10",
+      "10000"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_025",
+    "topic": "measurement",
+    "question": "How many minutes are in 1 hour?",
+    "options": [
+      "60",
+      "100",
+      "50",
+      "30"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_026",
+    "topic": "time",
+    "question": "If a movie starts at 3:00 pm and lasts 2 hours, when does it end?",
+    "options": [
+      "5:00 pm",
+      "4:00 pm",
+      "6:00 pm",
+      "5:30 pm"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_027",
+    "topic": "time",
+    "question": "How many days are in a week?",
+    "options": [
+      "7",
+      "5",
+      "10",
+      "30"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_028",
+    "topic": "money",
+    "question": "If you have 3 quarters, how much money do you have?",
+    "options": [
+      "75 cents",
+      "50 cents",
+      "100 cents",
+      "25 cents"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_029",
+    "topic": "money",
+    "question": "You buy a toy for $4.25 and pay with a $5 bill. How much change do you get?",
+    "options": [
+      "$0.75",
+      "$1.00",
+      "$0.50",
+      "$0.25"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_030",
+    "topic": "word_problem",
+    "question": "Maria has 14 apples. She gives 6 to her friend. How many apples does she have left?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_031",
+    "topic": "word_problem",
+    "question": "A classroom has 5 rows of 6 desks. How many desks are there in total?",
+    "options": [
+      "30",
+      "25",
+      "35",
+      "20"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_032",
+    "topic": "word_problem",
+    "question": "Tom has 3 bags with 8 marbles in each bag. How many marbles does he have in total?",
+    "options": [
+      "24",
+      "21",
+      "27",
+      "18"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_033",
+    "topic": "word_problem",
+    "question": "There are 48 cookies to be shared equally among 6 kids. How many cookies does each kid get?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_034",
+    "topic": "patterns",
+    "question": "What is the next number in the pattern: 3, 6, 9, 12, ...?",
+    "options": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_035",
+    "topic": "patterns",
+    "question": "What is the next number in the pattern: 5, 10, 15, 20, ...?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "24"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_036",
+    "topic": "rounding",
+    "question": "Round 47 to the nearest ten.",
+    "options": [
+      "50",
+      "40",
+      "45",
+      "60"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_037",
+    "topic": "rounding",
+    "question": "Round 682 to the nearest hundred.",
+    "options": [
+      "700",
+      "600",
+      "680",
+      "690"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_038",
+    "topic": "comparison",
+    "question": "Which symbol makes this true: 452 ___ 425?",
+    "options": [
+      ">",
+      "<",
+      "=",
+      "None of these"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_039",
+    "topic": "comparison",
+    "question": "Which number is an even number?",
+    "options": [
+      "18",
+      "23",
+      "35",
+      "41"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_040",
+    "topic": "comparison",
+    "question": "Which number is an odd number?",
+    "options": [
+      "27",
+      "24",
+      "30",
+      "42"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_041",
+    "topic": "addition",
+    "question": "What is 47 + 36?",
+    "options": [
+      "83",
+      "73",
+      "93",
+      "86"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_042",
+    "topic": "addition",
+    "question": "What is 129 + 154?",
+    "options": [
+      "283",
+      "273",
+      "293",
+      "284"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_043",
+    "topic": "addition",
+    "question": "What is 68 + 27?",
+    "options": [
+      "95",
+      "85",
+      "105",
+      "94"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_044",
+    "topic": "addition",
+    "question": "What is 214 + 108?",
+    "options": [
+      "322",
+      "312",
+      "332",
+      "321"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_045",
+    "topic": "addition",
+    "question": "What is 39 + 46?",
+    "options": [
+      "85",
+      "75",
+      "95",
+      "84"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_046",
+    "topic": "addition",
+    "question": "What is 501 + 299?",
+    "options": [
+      "800",
+      "790",
+      "810",
+      "801"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_047",
+    "topic": "addition",
+    "question": "What is 76 + 19?",
+    "options": [
+      "95",
+      "85",
+      "105",
+      "94"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_048",
+    "topic": "addition",
+    "question": "What is 340 + 260?",
+    "options": [
+      "600",
+      "590",
+      "610",
+      "650"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_049",
+    "topic": "addition",
+    "question": "What is 58 + 24?",
+    "options": [
+      "82",
+      "72",
+      "92",
+      "81"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_050",
+    "topic": "multiplication",
+    "question": "What is 3 x 8?",
+    "options": [
+      "24",
+      "21",
+      "27",
+      "18"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_051",
+    "topic": "multiplication",
+    "question": "What is 7 x 6?",
+    "options": [
+      "42",
+      "48",
+      "36",
+      "49"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_052",
+    "topic": "multiplication",
+    "question": "What is 9 x 4?",
+    "options": [
+      "36",
+      "32",
+      "40",
+      "45"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_053",
+    "topic": "multiplication",
+    "question": "What is 2 x 11?",
+    "options": [
+      "22",
+      "20",
+      "24",
+      "11"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_054",
+    "topic": "multiplication",
+    "question": "What is 10 x 7?",
+    "options": [
+      "70",
+      "60",
+      "80",
+      "75"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_055",
+    "topic": "multiplication",
+    "question": "What is 6 x 6?",
+    "options": [
+      "36",
+      "30",
+      "42",
+      "32"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_056",
+    "topic": "multiplication",
+    "question": "What is 5 x 8?",
+    "options": [
+      "40",
+      "35",
+      "45",
+      "50"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_057",
+    "topic": "multiplication",
+    "question": "What is 3 x 9?",
+    "options": [
+      "27",
+      "24",
+      "30",
+      "21"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_058",
+    "topic": "division",
+    "question": "What is 24 divided by 4?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "8"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_059",
+    "topic": "division",
+    "question": "What is 56 divided by 8?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_060",
+    "topic": "division",
+    "question": "What is 27 divided by 3?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_061",
+    "topic": "division",
+    "question": "What is 42 divided by 6?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_062",
+    "topic": "division",
+    "question": "What is 81 divided by 9?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_063",
+    "topic": "division",
+    "question": "What is 30 divided by 5?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_064",
+    "topic": "division",
+    "question": "What is 48 divided by 8?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_065",
+    "topic": "division",
+    "question": "What is 18 divided by 3?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_066",
+    "topic": "division",
+    "question": "What is 64 divided by 8?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_067",
+    "topic": "word_problem",
+    "question": "A farmer has 9 rows of corn with 7 plants in each row. How many corn plants are there in total?",
+    "options": [
+      "63",
+      "56",
+      "72",
+      "49"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_068",
+    "topic": "word_problem",
+    "question": "Ben read 23 pages on Monday and 18 pages on Tuesday. How many pages did he read in total?",
+    "options": [
+      "41",
+      "31",
+      "45",
+      "39"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_069",
+    "topic": "word_problem",
+    "question": "There are 32 students going on a field trip. Each bus holds 8 students. How many buses are needed?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_070",
+    "topic": "word_problem",
+    "question": "Emma had $50. She spent $18 on a book. How much money does she have left?",
+    "options": [
+      "$32",
+      "$28",
+      "$38",
+      "$22"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_071",
+    "topic": "word_problem",
+    "question": "A baker makes 6 trays of muffins with 8 muffins on each tray. How many muffins are there in total?",
+    "options": [
+      "48",
+      "42",
+      "54",
+      "40"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_072",
+    "topic": "word_problem",
+    "question": "Liam has 45 stickers. He gives away 17. How many stickers does he have left?",
+    "options": [
+      "28",
+      "27",
+      "38",
+      "18"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_073",
+    "topic": "word_problem",
+    "question": "There are 4 shelves with 9 books on each shelf. How many books are there in total?",
+    "options": [
+      "36",
+      "32",
+      "40",
+      "45"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_074",
+    "topic": "word_problem",
+    "question": "A garden has 72 flowers divided equally into 8 rows. How many flowers are in each row?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_075",
+    "topic": "algebra",
+    "question": "5 + ? = 12. What is the missing number?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_076",
+    "topic": "algebra",
+    "question": "? - 4 = 9. What is the missing number?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "5"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_077",
+    "topic": "algebra",
+    "question": "3 x ? = 21. What is the missing number?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_078",
+    "topic": "algebra",
+    "question": "? + 8 = 20. What is the missing number?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_079",
+    "topic": "algebra",
+    "question": "16 - ? = 9. What is the missing number?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_080",
+    "topic": "algebra",
+    "question": "? x 4 = 28. What is the missing number?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_081",
+    "topic": "algebra",
+    "question": "? divided by 5 = 6. What is the missing number?",
+    "options": [
+      "30",
+      "25",
+      "35",
+      "20"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_082",
+    "topic": "algebra",
+    "question": "9 + ? = 17. What is the missing number?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_083",
+    "topic": "algebra",
+    "question": "? - 15 = 20. What is the missing number?",
+    "options": [
+      "35",
+      "30",
+      "25",
+      "40"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_084",
+    "topic": "algebra",
+    "question": "2 x ? = 18. What is the missing number?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_085",
+    "topic": "algebra",
+    "question": "Two numbers add up to 10. If the first number is 4, what is the second number?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_086",
+    "topic": "algebra",
+    "question": "40 - ? = 25. What is the missing number?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "25"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_087",
+    "topic": "trigonometry",
+    "question": "Which type of angle looks like the corner of a square?",
+    "options": [
+      "Right angle",
+      "Acute angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_088",
+    "topic": "trigonometry",
+    "question": "An angle smaller than a right angle is called a(n)?",
+    "options": [
+      "Acute angle",
+      "Obtuse angle",
+      "Right angle",
+      "Straight angle"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_089",
+    "topic": "trigonometry",
+    "question": "An angle bigger than a right angle but smaller than a straight line is called a(n)?",
+    "options": [
+      "Obtuse angle",
+      "Acute angle",
+      "Right angle",
+      "Reflex angle"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_090",
+    "topic": "trigonometry",
+    "question": "How many right angles does a square have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_091",
+    "topic": "trigonometry",
+    "question": "A triangle has how many angles?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_092",
+    "topic": "trigonometry",
+    "question": "A triangle with exactly one right angle is called a?",
+    "options": [
+      "Right triangle",
+      "Equilateral triangle",
+      "Circle",
+      "Hexagon"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_093",
+    "topic": "trigonometry",
+    "question": "A straight line makes an angle of how many degrees?",
+    "options": [
+      "180",
+      "90",
+      "360",
+      "45"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_094",
+    "topic": "trigonometry",
+    "question": "A full turn all the way around makes an angle of how many degrees?",
+    "options": [
+      "360",
+      "180",
+      "90",
+      "270"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_095",
+    "topic": "trigonometry",
+    "question": "A right angle measures how many degrees?",
+    "options": [
+      "90",
+      "180",
+      "45",
+      "360"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_096",
+    "topic": "trigonometry",
+    "question": "Which of these is an example of an acute angle?",
+    "options": [
+      "30 degrees",
+      "90 degrees",
+      "120 degrees",
+      "180 degrees"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_097",
+    "topic": "trigonometry",
+    "question": "Which of these is an example of an obtuse angle?",
+    "options": [
+      "120 degrees",
+      "90 degrees",
+      "45 degrees",
+      "10 degrees"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_098",
+    "topic": "trigonometry",
+    "question": "The corner of a book page forms what kind of angle?",
+    "options": [
+      "Right angle",
+      "Acute angle",
+      "Obtuse angle",
+      "Reflex angle"
+    ],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "g3_099",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 2, 4, 6, 8, ...?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_100",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 10, 20, 30, 40, ...?",
+    "options": [
+      "50",
+      "45",
+      "60",
+      "55"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_101",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the missing number in the pattern: 1, 3, 5, ?, 9?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_102",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 100, 90, 80, 70, ...?",
+    "options": [
+      "60",
+      "50",
+      "65",
+      "55"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_103",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What comes next in the shape pattern: circle, square, circle, square, ...?",
+    "options": [
+      "circle",
+      "square",
+      "triangle",
+      "star"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_104",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 4, 8, 12, 16, ...?",
+    "options": [
+      "20",
+      "18",
+      "22",
+      "24"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_105",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the missing number: 50, 45, 40, ?, 30?",
+    "options": [
+      "35",
+      "30",
+      "25",
+      "38"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_106",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 1, 2, 4, 8, ...?",
+    "options": [
+      "16",
+      "12",
+      "14",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_107",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the next number in the pattern: 7, 14, 21, 28, ...?",
+    "options": [
+      "35",
+      "30",
+      "32",
+      "42"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_108",
+    "topic": "patterns",
+    "difficulty": "medium",
+    "question": "What is the missing number in the pattern: 6, 12, 18, ?, 30?",
+    "options": [
+      "24",
+      "20",
+      "22",
+      "26"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_109",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 4 + 3?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_110",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 6 + 5?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_111",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 8 + 2?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_112",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 9 + 6?",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "13"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_113",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 7 + 7?",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_114",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 10 + 5?",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_115",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 12 + 3?",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "13"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_116",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 13 + 6?",
+    "options": [
+      "19",
+      "18",
+      "20",
+      "17"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_117",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 2,345 + 1,678?",
+    "options": [
+      "4,023",
+      "4,013",
+      "4,033",
+      "4,123"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_118",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 5,678 + 987?",
+    "options": [
+      "6,665",
+      "6,655",
+      "6,675",
+      "6,565"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_119",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 999 + 999?",
+    "options": [
+      "1,998",
+      "1,988",
+      "2,008",
+      "1,898"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_120",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 4,562 + 3,789?",
+    "options": [
+      "8,351",
+      "8,341",
+      "8,361",
+      "8,251"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_121",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 1,234 + 5,678 + 88?",
+    "options": [
+      "7,000",
+      "6,990",
+      "7,010",
+      "6,900"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_122",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 7,205 + 2,896?",
+    "options": [
+      "10,101",
+      "10,091",
+      "10,111",
+      "9,101"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_123",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 6,048 + 1,952?",
+    "options": [
+      "8,000",
+      "7,990",
+      "8,010",
+      "7,900"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_124",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 3,333 + 4,444 + 2,222?",
+    "options": [
+      "9,999",
+      "9,989",
+      "10,009",
+      "9,899"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_125",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 2 x 3?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_126",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 4 x 2?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_127",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 3 x 3?",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_128",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 5 x 2?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_129",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 2 x 6?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_130",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 1 x 9?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_131",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 4 x 3?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_132",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 2 x 9?",
+    "options": [
+      "18",
+      "16",
+      "20",
+      "17"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_133",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 12 x 12?",
+    "options": [
+      "144",
+      "124",
+      "154",
+      "134"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_134",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 15 x 6?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "85"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_135",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 25 x 4?",
+    "options": [
+      "100",
+      "90",
+      "110",
+      "95"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_136",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 13 x 7?",
+    "options": [
+      "91",
+      "81",
+      "101",
+      "84"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_137",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 14 x 8?",
+    "options": [
+      "112",
+      "102",
+      "122",
+      "108"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_138",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 16 x 5?",
+    "options": [
+      "80",
+      "70",
+      "90",
+      "75"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_139",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 11 x 11?",
+    "options": [
+      "121",
+      "111",
+      "131",
+      "101"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_140",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 18 x 3?",
+    "options": [
+      "54",
+      "44",
+      "64",
+      "50"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_141",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 6 divided by 2?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_142",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 8 divided by 4?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_143",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 9 divided by 3?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_144",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 10 divided by 5?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_145",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 4 divided by 2?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_146",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 12 divided by 2?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_147",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 15 divided by 5?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_148",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 20 divided by 4?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_149",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 144 divided by 12?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "14"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_150",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 121 divided by 11?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "13"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_151",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 96 divided by 8?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_152",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 108 divided by 9?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_153",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 132 divided by 11?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_154",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 84 divided by 7?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_155",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 150 divided by 6?",
+    "options": [
+      "25",
+      "24",
+      "26",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_156",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 168 divided by 8?",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_157",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "2 + ? = 5. What is the missing number?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_158",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? + 3 = 7. What is the missing number?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_159",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "6 - ? = 4. What is the missing number?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_160",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? - 2 = 5. What is the missing number?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_161",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "2 x ? = 6. What is the missing number?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_162",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? x 3 = 9. What is the missing number?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_163",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "8 - ? = 5. What is the missing number?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_164",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? + 4 = 9. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_165",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "3 x ? + 4 = 19. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_166",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "(? + 5) x 2 = 20. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_167",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "? divided by 4, plus 3, equals 10. What is the missing number?",
+    "options": [
+      "28",
+      "24",
+      "32",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_168",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "5 x ? - 6 = 24. What is the missing number?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_169",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "2 x (? - 3) = 14. What is the missing number?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_170",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "? + 15 = 15 x 2. What is the missing number?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_171",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "100 - 3 x ? = 70. What is the missing number?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_172",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "4 x ? + 8 = 40. What is the missing number?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_173",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which shape has no corners or angles at all?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_174",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "How many angles does a square have?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_175",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which angle looks 'wide open', more than a right angle?",
+    "options": [
+      "Obtuse angle",
+      "Acute angle",
+      "Right angle",
+      "No angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_176",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which angle looks 'narrow' or 'pointy', less than a right angle?",
+    "options": [
+      "Acute angle",
+      "Obtuse angle",
+      "Right angle",
+      "Straight angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_177",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "A door usually opens to make what kind of angle with the wall?",
+    "options": [
+      "Right angle",
+      "Acute angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_178",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "How many angles does a triangle have?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_179",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which of these shapes has 4 right angles?",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Circle",
+      "Oval"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_180",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "The hands of a clock at 3:00 form what kind of angle?",
+    "options": [
+      "Right angle",
+      "Acute angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_181",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "If one angle in a triangle is 90 degrees and another is 40 degrees, what is the third angle?",
+    "options": [
+      "50 degrees",
+      "60 degrees",
+      "40 degrees",
+      "90 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_182",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A straight angle is split into two equal parts. How many degrees is each part?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "45 degrees",
+      "60 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_183",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "If a right angle is split into two equal smaller angles, how many degrees is each?",
+    "options": [
+      "45 degrees",
+      "90 degrees",
+      "30 degrees",
+      "60 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_184",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A full circle is split into 4 equal angles. How many degrees is each angle?",
+    "options": [
+      "90 degrees",
+      "45 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_185",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "Two angles together make a right angle (90 degrees). If one angle is 35 degrees, what is the other?",
+    "options": [
+      "55 degrees",
+      "65 degrees",
+      "45 degrees",
+      "60 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_186",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "Two angles together make a straight angle (180 degrees). If one angle is 110 degrees, what is the other?",
+    "options": [
+      "70 degrees",
+      "80 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_187",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A triangle has angles of 60 degrees and 60 degrees. What is the third angle?",
+    "options": [
+      "60 degrees",
+      "70 degrees",
+      "50 degrees",
+      "90 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_188",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A rectangle's four angles add up to how many degrees in total?",
+    "options": [
+      "360 degrees",
+      "180 degrees",
+      "270 degrees",
+      "90 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_189",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "Sam has 3 apples. He gets 2 more. How many apples does he have now?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_190",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "There are 5 birds on a tree. 2 fly away. How many birds are left?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_191",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "A box has 4 pencils. Another box has 3 pencils. How many pencils in total?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_192",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "Maya has 6 candies and eats 2. How many candies are left?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_193",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "There are 2 rows of chairs with 3 chairs in each row. How many chairs in total?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_194",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "Jake has 10 dollars and spends 4. How much does he have left?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_195",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "A bag has 5 red balls and 4 blue balls. How many balls in total?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_196",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "There are 8 cupcakes and 3 are eaten. How many cupcakes are left?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_197",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A store had 120 apples. They sold 45 in the morning and 38 in the afternoon. How many apples are left?",
+    "options": [
+      "37",
+      "27",
+      "47",
+      "42"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_198",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "Each box holds 24 crayons. There are 9 boxes, and 3 crayons are broken. How many good crayons are there?",
+    "options": [
+      "213",
+      "216",
+      "210",
+      "219"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_199",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "Tickets cost $8 each. A family of 4 buys tickets and pays with $50. How much change do they get?",
+    "options": [
+      "$18",
+      "$16",
+      "$20",
+      "$14"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_200",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A school has 6 classrooms with 24 students each. If 15 students are absent today, how many students are present?",
+    "options": [
+      "129",
+      "144",
+      "15",
+      "135"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_201",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A garden has 8 rows of 12 flowers. If 19 flowers wilt, how many flowers are still healthy?",
+    "options": [
+      "77",
+      "96",
+      "19",
+      "87"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_202",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "Ravi buys 5 packs of stickers with 12 stickers in each pack. He gives 17 stickers to his friends. How many stickers does he have left?",
+    "options": [
+      "43",
+      "42",
+      "44",
+      "38"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_203",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A theater has 18 rows with 15 seats in each row. If 52 seats are empty, how many seats are filled?",
+    "options": [
+      "218",
+      "222",
+      "208",
+      "228"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_204",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "Maria earns $9 per hour. She works 6 hours on Saturday and 4 hours on Sunday. How much does she earn in total?",
+    "options": [
+      "$90",
+      "$80",
+      "$100",
+      "$85"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_205",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 1, 2, 3, 4, ...?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_206",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 2, 4, 6, ...?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_207",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next shape: square, square, circle, square, square, circle, ...?",
+    "options": [
+      "square",
+      "circle",
+      "triangle",
+      "star"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_208",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the missing number: 5, 10, ?, 20?",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_209",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 3, 6, 9, ...?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_210",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 10, 9, 8, ...?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_211",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the missing number: 2, 4, 6, ?, 10?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_212",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 5, 10, 15, ...?",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "25"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_213",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 3, 6, 12, 24, ...?",
+    "options": [
+      "48",
+      "36",
+      "42",
+      "54"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_214",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the missing number: 2, 5, 10, 17, ?, 37?",
+    "options": [
+      "26",
+      "24",
+      "28",
+      "25"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_215",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 1, 4, 9, 16, ...?",
+    "options": [
+      "25",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_216",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 100, 91, 82, 73, ...?",
+    "options": [
+      "64",
+      "63",
+      "65",
+      "70"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_217",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the missing number: 5, 11, 17, 23, ?, 35?",
+    "options": [
+      "29",
+      "28",
+      "30",
+      "27"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_218",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 2, 6, 18, 54, ...?",
+    "options": [
+      "162",
+      "108",
+      "144",
+      "180"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_219",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 81, 27, 9, 3, ...?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_220",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the missing number: 12, 24, ?, 96, 192?",
+    "options": [
+      "48",
+      "36",
+      "60",
+      "72"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_221",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 5 + 4?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_222",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 3 + 6?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_223",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 9 + 2?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_224",
+    "topic": "addition",
+    "difficulty": "easy",
+    "question": "What is 7 + 4?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_225",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 8,456 + 3,678?",
+    "options": [
+      "12,134",
+      "12,124",
+      "12,144",
+      "12,034"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_226",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 6,789 + 2,345?",
+    "options": [
+      "9,134",
+      "9,124",
+      "9,144",
+      "9,034"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_227",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 4,999 + 5,001?",
+    "options": [
+      "10,000",
+      "9,990",
+      "10,010",
+      "9,900"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_228",
+    "topic": "addition",
+    "difficulty": "hard",
+    "question": "What is 7,777 + 2,223?",
+    "options": [
+      "10,000",
+      "9,000",
+      "11,000",
+      "9,900"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_229",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 3 x 4?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_230",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 6 x 2?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_231",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 5 x 3?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_232",
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "question": "What is 2 x 8?",
+    "options": [
+      "16",
+      "14",
+      "18",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_233",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 9 x 12?",
+    "options": [
+      "108",
+      "98",
+      "118",
+      "104"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_234",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 17 x 4?",
+    "options": [
+      "68",
+      "58",
+      "78",
+      "64"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_235",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 6 x 15?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "85"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_236",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 8 x 13?",
+    "options": [
+      "104",
+      "94",
+      "114",
+      "100"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_237",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 14 divided by 2?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_238",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 16 divided by 4?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_239",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 18 divided by 2?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_240",
+    "topic": "division",
+    "difficulty": "easy",
+    "question": "What is 21 divided by 3?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_241",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 156 divided by 12?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_242",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 117 divided by 9?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_243",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 130 divided by 10?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "11"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_244",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 176 divided by 8?",
+    "options": [
+      "22",
+      "21",
+      "23",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_245",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "3 + ? = 8. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_246",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? + 6 = 10. What is the missing number?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_247",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "9 - ? = 3. What is the missing number?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_248",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "? x 2 = 10. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_249",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "6 x ? - 10 = 20. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_250",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "? divided by 3, plus 5, equals 15. What is the missing number?",
+    "options": [
+      "30",
+      "25",
+      "35",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_251",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "3 x (? + 2) = 21. What is the missing number?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_252",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "90 - 4 x ? = 50. What is the missing number?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_253",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which of these has square corners (right angles) at every corner?",
+    "options": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Oval"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_254",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "A slice of pizza usually looks like what kind of angle?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_255",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "An open book lying flat makes what kind of angle?",
+    "options": [
+      "Straight angle",
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_256",
+    "topic": "trigonometry",
+    "difficulty": "easy",
+    "question": "Which shape is made only of straight sides and angles: a circle or a triangle?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Both",
+      "Neither"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_257",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A triangle has one angle of 100 degrees and one of 30 degrees. What is the third angle?",
+    "options": [
+      "50 degrees",
+      "60 degrees",
+      "40 degrees",
+      "70 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_258",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "An angle of 200 degrees (more than a straight line) is called what kind of angle?",
+    "options": [
+      "Reflex angle",
+      "Obtuse angle",
+      "Acute angle",
+      "Right angle"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_259",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "A square's 90 degree corner is split evenly into two parts. How many degrees is each part?",
+    "options": [
+      "45 degrees",
+      "90 degrees",
+      "30 degrees",
+      "60 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_260",
+    "topic": "trigonometry",
+    "difficulty": "hard",
+    "question": "Two angles are supplementary, meaning they add up to 180 degrees. If one is 65 degrees, what is the other?",
+    "options": [
+      "115 degrees",
+      "125 degrees",
+      "105 degrees",
+      "95 degrees"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_261",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "A pond has 6 ducks. 3 more ducks arrive. How many ducks are there now?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_262",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "There are 12 crayons and 5 are given away. How many crayons are left?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_263",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "A pack has 3 rows of 3 cookies. How many cookies are there in total?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_264",
+    "topic": "word_problem",
+    "difficulty": "easy",
+    "question": "Nina has 7 dollars. Her mom gives her 3 more. How much money does she have now?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_265",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A parking lot has 14 rows with 20 cars in each row. If 37 spots are empty, how many cars are parked?",
+    "options": [
+      "243",
+      "247",
+      "233",
+      "253"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_266",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A bakery makes 15 dozen cookies (12 per dozen). If they sell 140 cookies, how many are left?",
+    "options": [
+      "40",
+      "30",
+      "50",
+      "45"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_267",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "Jon reads 24 pages a day for 6 days, then 15 more pages on the 7th day. How many pages has he read in total?",
+    "options": [
+      "159",
+      "149",
+      "169",
+      "154"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_268",
+    "topic": "word_problem",
+    "difficulty": "hard",
+    "question": "A farmer collects 18 eggs each day for 5 days. If 12 eggs break, how many good eggs remain?",
+    "options": [
+      "78",
+      "88",
+      "68",
+      "82"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_269",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 0, 5, 10, 15, ...?",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "25"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_270",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the missing number: 3, 6, ?, 12, 15?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_271",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What is the next number in the pattern: 20, 18, 16, ...?",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_272",
+    "topic": "patterns",
+    "difficulty": "easy",
+    "question": "What comes next: red, blue, red, blue, red, ...?",
+    "options": [
+      "blue",
+      "red",
+      "green",
+      "yellow"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_273",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 1, 3, 6, 10, 15, ...?",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "18"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_274",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the missing number: 4, 9, 16, 25, ?, 49?",
+    "options": [
+      "36",
+      "35",
+      "37",
+      "42"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_275",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 5, 9, 14, 20, 27, ...?",
+    "options": [
+      "35",
+      "34",
+      "33",
+      "36"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_276",
+    "topic": "patterns",
+    "difficulty": "hard",
+    "question": "What is the next number in the pattern: 128, 64, 32, 16, ...?",
+    "options": [
+      "8",
+      "4",
+      "12",
+      "10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_277",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which fraction represents one half?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/2"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_278",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "If a pizza is cut into 4 equal slices and you eat 1, what fraction did you eat?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "4/1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_279",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which fraction represents one whole?",
+    "options": [
+      "4/4",
+      "1/4",
+      "2/4",
+      "0/4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_280",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "In the fraction 3/4, what is the top number (3) called?",
+    "options": [
+      "Numerator",
+      "Denominator",
+      "Whole number",
+      "Decimal"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_281",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "In the fraction 3/4, what is the bottom number (4) called?",
+    "options": [
+      "Denominator",
+      "Numerator",
+      "Whole number",
+      "Decimal"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_282",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which fraction is bigger, 1/2 or 1/4?",
+    "options": [
+      "1/2",
+      "1/4",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_283",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "A candy bar is split into 3 equal parts. What is each part called?",
+    "options": [
+      "1/3",
+      "1/2",
+      "3/1",
+      "1/4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_284",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which of these fractions means 'two out of five equal parts'?",
+    "options": [
+      "2/5",
+      "5/2",
+      "2/2",
+      "5/5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_285",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "If you shade 2 out of 4 equal parts of a shape, what fraction is shaded?",
+    "options": [
+      "2/4",
+      "4/2",
+      "2/2",
+      "1/4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_286",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which fraction shows 3 equal parts out of 3 total (a whole)?",
+    "options": [
+      "3/3",
+      "1/3",
+      "3/1",
+      "0/3"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_287",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "Which is smaller, 1/8 or 1/2?",
+    "options": [
+      "1/8",
+      "1/2",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_288",
+    "topic": "fractions",
+    "difficulty": "easy",
+    "question": "A cake is cut into 6 equal pieces. If you take 1 piece, what fraction is that?",
+    "options": [
+      "1/6",
+      "6/1",
+      "1/2",
+      "6/6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_289",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 1/2 of 10?",
+    "options": [
+      "5",
+      "2",
+      "10",
+      "20"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_290",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 1/3 of 9?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "1"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_291",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "Which fraction is equivalent to 2/4?",
+    "options": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "2/2"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_292",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 1/5 of 25?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "25"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_293",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "Which fraction is larger: 2/3 or 1/3?",
+    "options": [
+      "2/3",
+      "1/3",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_294",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 1/2 of 16?",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "2"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_295",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "Which of these fractions is the same as 1 whole?",
+    "options": [
+      "5/5",
+      "1/5",
+      "2/5",
+      "0/5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_296",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 1/6 of 12?",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "12"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_297",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "Which fraction is closer to 0 on a number line: 1/10 or 9/10?",
+    "options": [
+      "1/10",
+      "9/10",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_298",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 1/4 + 2/4?",
+    "options": [
+      "3/4",
+      "2/4",
+      "1/4",
+      "4/4"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_299",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 3/5 - 1/5?",
+    "options": [
+      "2/5",
+      "4/5",
+      "3/5",
+      "1/5"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_300",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 2/6 + 3/6?",
+    "options": [
+      "5/6",
+      "6/6",
+      "1/6",
+      "2/6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_301",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "Which fraction is larger: 3/8 or 1/2?",
+    "options": [
+      "1/2",
+      "3/8",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_302",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "Maria ate 2/8 of a pizza and her brother ate 3/8. How much of the pizza did they eat together?",
+    "options": [
+      "5/8",
+      "1/8",
+      "6/8",
+      "2/8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_303",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 5/6 - 2/6?",
+    "options": [
+      "3/6",
+      "2/6",
+      "1/6",
+      "5/6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_304",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "Which fraction is equivalent to 3/6?",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_305",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 4/10 + 3/10?",
+    "options": [
+      "7/10",
+      "1/10",
+      "3/10",
+      "4/10"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_306",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "Which is larger: 5/8 or 5/10?",
+    "options": [
+      "5/8",
+      "5/10",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_307",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 7/9 - 4/9?",
+    "options": [
+      "3/9",
+      "4/9",
+      "7/9",
+      "1/9"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_308",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "A recipe needs 1/4 cup of sugar and 2/4 cup of flour. How much more flour than sugar is needed?",
+    "options": [
+      "1/4 cup",
+      "2/4 cup",
+      "3/4 cup",
+      "1/2 cup"
+    ],
+    "answer_index": 0
+  },
+  {
+    "id": "g3_309",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 2/5 + 2/5?",
+    "options": [
+      "4/5",
+      "2/5",
+      "5/5",
+      "1/5"
+    ],
+    "answer_index": 0
+  }
+]

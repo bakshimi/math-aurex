@@ -1,0 +1,25 @@
+services:
+  app:
+    build: .
+    image: math-education-quiz:latest
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+      # Only needed if the frontend is ever hosted on a different origin than
+      # this API. Same-origin deployments (the default) can leave this unset.
+      - ALLOWED_ORIGINS=
+      # REQUIRED: set a real secret (see .env.example) so logins survive restarts.
+      - JWT_SECRET=
+    volumes:
+      # Persist the user accounts database across container rebuilds/restarts.
+      - users-db:/srv/backend/app/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/healthz')"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+
+volumes:
+  users-db:
